@@ -1,0 +1,36 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated working files
+working/extracted/document_text.md
+working/extracted/tables.md
+working/extracted/image_inventory_raw.md
+working/extracted/images/*
+
+# Generated outputs
+output/*
+!output/.gitkeep
+
+# Generated design artifacts
+design/fd/*.yaml
+design/dd/*.yaml
+design/coding/copilot_tasks/*.prompt.md
+design/coding/implementation_plan.md
+
+# Local source documents may contain customer data
+input/original/*
+!input/original/.gitkeep
+input/supplemental/*
+!input/supplemental/.gitkeep
+
+# Archives
+*.zip
