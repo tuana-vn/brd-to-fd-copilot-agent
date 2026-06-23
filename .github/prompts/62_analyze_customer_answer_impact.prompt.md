@@ -93,7 +93,6 @@ For each normalized customer answer:
 - `output/12_normalized_evidence.md`
 - `output/11_translation_policy.md`
 - `output/10_document_inventory.md`
-- `output/35_manual_text_evidence_analysis.md`, if available
 - `working/extracted/document_text.md`
 - `working/extracted/tables.md`
 

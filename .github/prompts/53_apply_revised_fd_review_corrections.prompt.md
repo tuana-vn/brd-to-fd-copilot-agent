@@ -99,7 +99,6 @@ Do not append the internal patch log to the customer-facing FD.
 
 ### Supporting inputs, open only when needed
 
-- `output/35_manual_text_evidence_analysis.md`, if available
 - `output/40_FD_DRAFT.md`, if comparison with the first FD draft is needed
 - `output/41_FD_INTERNAL_TRACEABILITY.md`, if comparison with the first traceability report is needed
 - `output/42_FD_REVIEW_REPORT.md`, if previous issue history is needed

@@ -23,7 +23,6 @@ This task generates an FD draft only. It does not generate Detailed Design, codi
 - Treat image-derived behavior carefully:
   - Use image evidence only when it is analyzed in `output/20_image_analysis.md` and supported by text/rules, or clearly marked as diagram-derived.
   - Do not overstate figure-only interpretation as text-confirmed behavior.
-- Treat manual pasted evidence from `output/35_manual_text_evidence_analysis.md`, if available, as supplemental review input only.
   - Do not add new confirmed FD behavior from manual pasted evidence unless it is also supported by `output/30_requirement_inventory.md`, `output/31_business_rule_catalog.md`, or `output/12_normalized_evidence.md`.
 - Write the output in professional English suitable for customer review.
 - Keep customer-facing content free from internal IDs and internal pipeline terms.
@@ -85,10 +84,6 @@ The FD must:
 - `output/11_translation_policy.md`
 
 ### Optional supplemental input
-
-Use only if available and relevant:
-
-- `output/35_manual_text_evidence_analysis.md`
 
 Rules for optional supplemental input:
 
@@ -361,7 +356,6 @@ Use internal artifacts only to ensure FD quality and coverage.
 - Use `output/12_normalized_evidence.md` to preserve source meaning and verify suspicious or missing details.
 - Use `output/33_FEATURE_UNDERSTANDING_BRIEF.md` to improve readability and organization.
 - Use `output/34_FEATURE_UNDERSTANDING_REVIEW.md` to avoid known quality issues.
-- Use `output/35_manual_text_evidence_analysis.md`, if available, only as supplemental review evidence.
 
 Do not expose these files, internal IDs, or internal workflow names in the FD.
 

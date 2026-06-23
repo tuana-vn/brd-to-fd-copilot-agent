@@ -109,7 +109,6 @@ For each correction:
 
 - `output/20_image_analysis.md`
 - `output/12_normalized_evidence.md`
-- `output/35_manual_text_evidence_analysis.md` if available
 - `output/11_translation_policy.md`
 - `output/10_document_inventory.md`
 - `working/extracted/document_text.md`

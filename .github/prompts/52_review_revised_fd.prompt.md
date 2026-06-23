@@ -105,7 +105,6 @@ Check `output/51_FD_REVISED_INTERNAL_TRACEABILITY.md` against:
 - `output/21_glossary.md`
 - `output/20_image_analysis.md`
 - `output/12_normalized_evidence.md`
-- `output/35_manual_text_evidence_analysis.md`, if available
 - raw extracted text/tables only when targeted verification is needed
 
 Find:
@@ -162,7 +161,6 @@ Find:
 
 ### Supporting inputs, open only when needed
 
-- `output/35_manual_text_evidence_analysis.md`
 - `output/41_FD_INTERNAL_TRACEABILITY.md`
 - `output/40_FD_DRAFT.md`
 - `output/11_translation_policy.md`

@@ -100,7 +100,6 @@ For each item:
 
 - `output/41_FD_INTERNAL_TRACEABILITY.md`
 - `output/40_FD_DRAFT.md`
-- `output/35_manual_text_evidence_analysis.md`, if available
 - `output/11_translation_policy.md`
 - `output/10_document_inventory.md`
 - `working/extracted/image_inventory_raw.md`
@@ -298,7 +297,6 @@ Use this priority order when tracing revised FD content:
 4. `output/21_glossary.md`
 5. `output/20_image_analysis.md`
 6. `output/12_normalized_evidence.md`
-7. `output/35_manual_text_evidence_analysis.md`, if available
 8. Raw extracted files only for targeted verification
 
 ## Traceability rules

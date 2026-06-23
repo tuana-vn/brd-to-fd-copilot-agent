@@ -97,7 +97,6 @@ Use these to decide whether a question is genuinely needed or can be resolved in
 
 ### Supporting inputs, open only when needed
 
-- `output/35_manual_text_evidence_analysis.md`, if available
 - `output/11_translation_policy.md`
 - `output/10_document_inventory.md`
 - `working/extracted/document_text.md`
